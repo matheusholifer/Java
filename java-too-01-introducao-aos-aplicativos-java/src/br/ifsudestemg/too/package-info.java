@@ -13,7 +13,7 @@
  * <li>Tópicos Avançados: Multithreading e Padrões de Projeto (Cap. 15-17)</li>
  * </ul>
  * * @see <a href="http://www.ifsudestemg.edu.br">IF Sudeste MG</a>
- * @author Matheus Henrique de Oliveira ferreira
+ * @author Matheus Henrique de Oliveira Ferreira
  * @version 1.0
  */
 package br.ifsudestemg.too;
